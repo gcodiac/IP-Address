@@ -26,6 +26,7 @@ echo '</pre>';
           <hr class="my-4">
           <div class="badge bg-primary bg-gradient h3">
             <?php print_r($_SERVER['SERVER_ADDR']);?>
+            
           </div>
         
       </div>
