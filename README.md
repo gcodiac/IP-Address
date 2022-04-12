@@ -1,5 +1,5 @@
 # IP-Address
 
-## Demo:
+## Demo
 
 [IP_Address](https://myipaddress7.herokuapp.com/)
